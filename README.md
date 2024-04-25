@@ -30,6 +30,4 @@ To use the code in this repository, follow these steps:
 
 Feel free to contribute by opening issues or submitting pull requests.
 
----
 
-Adjust the features, usage instructions, and other details as needed to accurately reflect the contents and purpose of your project.
